@@ -1,2 +1,19 @@
-# stock-price-prediction
-A stock price prediction project using historical data and models like Linear Regression, Decision Tree, and Random Forest. After feature engineering, Linear Regression performed best with an R² score of 0.990, showing strong potential for simple models in forecasting.
+# Stock Price Prediction
+
+This project applies machine learning models (Linear Regression, Decision Tree, Random Forest) to predict stock prices using historical data.
+
+## 📌 Technologies Used
+- Python
+- Pandas, NumPy
+- scikit-learn
+- Matplotlib, Seaborn
+- Jupyter Notebook
+
+## 🔍 Model Evaluation
+Models were compared using R² Score and RMSE.
+
+## 📊 Output
+The notebook includes visualizations and a model comparison table.
+
+## 🧠 Goal
+To explore different regression techniques and compare their performance in predicting stock closing prices.
