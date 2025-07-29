@@ -1,4 +1,5 @@
 📊 Stock Price Prediction using Machine Learning
+
 This repository contains two complete projects aimed at predicting stock closing prices using historical data and technical indicators. Both projects implement multiple regression models and allow for a comparative understanding of different modeling approaches:
 
 🔍 Objective
